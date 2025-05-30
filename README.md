@@ -45,4 +45,7 @@ A dynamic, AI-powered project management dashboard that brings together traditio
 
 ---
 
+## 👨‍💻 Author
 
+**Nithin Sai Adru**  
+📧 nithin.adru@email.ucr.edu 
